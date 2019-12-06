@@ -1,4 +1,4 @@
-# gameconf
+# particles
 
 ## Project setup
 ```
