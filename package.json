@@ -12,7 +12,7 @@
     "await-to-js": "^2.1.1",
     "charming": "^3.0.1",
     "core-js": "^3.4.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mobile-detect": "^1.4.4",
     "three-full": "^17.1.0",
     "vue": "^2.6.10",
